@@ -1,2 +1,2 @@
 # tv-playlist
-TV EPG playlist
+Perth IPTV playlist
